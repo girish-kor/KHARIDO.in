@@ -24,7 +24,7 @@ To run this website locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/KHARIDO.git
+   git clone https://github.com/girish-kor/KHARIDO.in
 
    ```
 
