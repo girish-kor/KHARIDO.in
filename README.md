@@ -68,5 +68,3 @@ If you'd like to contribute to this project, please follow these guidelines:
 6. Create a new pull request.  
 
 --- 
-
-You can copy and paste this content directly into your `README.md` file on GitHub. Let me know if you need any further adjustments! 🚀
