@@ -34,7 +34,9 @@ To run this website locally, follow these steps:
 3. **Open the index.html file in your browser:**
    Double-click index.html to view the website.
 
-<div style="position: relative; padding-bottom: 47.03125%; height: 0;"><iframe src="https://www.loom.com/embed/c8498f34ca034e7e9e960d35b801ced2?sid=9bce3520-5206-45ce-950b-4fc243b6c7b1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+https://www.loom.com/share/c8498f34ca034e7e9e960d35b801ced2?sid=f841556e-d9be-4eef-a027-3b9d1865887a
+
 
 ### Technologies Used
 
