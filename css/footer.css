@@ -1,0 +1,64 @@
+footer {
+  background-color: #141414;
+  color: #bbb;
+  text-align: center;
+  padding: 20px;
+  font-size: 1rem;
+  box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.7);
+}
+
+footer p {
+  margin-bottom: 10px;
+}
+
+footer a {
+  color: #bbb;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+footer a:hover {
+  color: #e50914;
+}
+
+footer ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+footer ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+footer .social-media a {
+  color: #bbb;
+  font-size: 1.8rem;
+  margin: 0 10px;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+footer .social-media a:hover {
+  color: #e50914;
+  transform: scale(1.2);
+}
+
+footer .social-media i {
+  transition: transform 0.3s ease;
+}
+
+footer .social-media a:hover i {
+  transform: rotate(15deg);
+}
+
+.product-card {
+  padding: 20px;
+}
+
+footer {
+  font-size: 0.9rem;
+}
+
+footer .social-media a {
+  font-size: 1.6rem;
+}
